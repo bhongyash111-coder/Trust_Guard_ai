@@ -8,7 +8,8 @@ TrustGuard AI is an advanced tool designed to analyze job postings, messages, an
 [**Try TrustGuard AI**](https://trust-guard-ai-taupe.vercel.app/analyze)
 
 ## 📺 Video Explanation
-[**Watch the Demo on YouTube**](https://youtu.be/9h4Fr6SAoy4?si=_gMuTsy3OwZKNdRA)
+[![Watch the Demo](https://img.youtube.com/vi/9h4Fr6SAoy4/hqdefault.jpg)](https://youtu.be/9h4Fr6SAoy4)
+> *Click the image above to watch the video with sound on YouTube.*
 
 ## ✨ Features
 - **Scam Detection**: Analyze text or URLs for potential fraud.
