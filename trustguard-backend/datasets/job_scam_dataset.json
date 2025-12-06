@@ -1,0 +1,204 @@
+{
+    "dataset": [
+        {
+            "id": 1,
+            "label": "scam",
+            "text": "Job Title: Remote Data Entry Assistant\nCompany: Global Edge Systems\nSalary: ₹50,000/week\nDescription: We urgently require 25 workers to assist with simple data entry tasks. No experience needed. Earn ₹5,000–₹7,000 daily by completing small assignments. To activate your work portal, complete a refundable verification deposit of ₹1,499.\nApply: https://globaledge-career-verify.work\nContact HR on WhatsApp: +91 90000 11111"
+        },
+        {
+            "id": 2,
+            "label": "scam",
+            "text": "Job Title: Online Promotion Worker\nCompany: BrightAds Media\nSalary: ₹1,20,000/month\nDescription: Work 1–2 hours per day. Just like posts and follow pages. Guaranteed income. A refundable security payment of ₹999 is required to access your daily task panel.\nApply: https://brightads-media-panel.work"
+        },
+        {
+            "id": 3,
+            "label": "scam",
+            "text": "Job Title: Operations Helper — Remote\nCompany: Sanvera Logistics\nDescription: We hire asap for remote shipment verification tasks. Must complete a ₹2,499 ID verification step before receiving dashboard login.\nApply: https://sanveralogistics-jobs.org"
+        },
+        {
+            "id": 4,
+            "label": "scam",
+            "text": "Job Title: Market Research Assistant\nCompany: Nova Insights\nSalary: ₹35,000 for 2 hours/day\nDescription: Simple survey filling tasks. Training is mandatory and requires small administrative charge depending on location.\nApply: https://nova-research-careers.com"
+        },
+        {
+            "id": 5,
+            "label": "scam",
+            "text": "Job Title: Customer Support Reviewer — Remote\nCompany: Interact Inc.\nDescription: Assist in reviewing chats for quality. After approval, contact our Telegram mentor @InteractHR to complete onboarding. Orientation fee: ₹750.\nApply: https://interact-apply.co"
+        },
+        {
+            "id": 6,
+            "label": "scam",
+            "text": "Job Title: Virtual Package Processor\nCompany: Apex Parcel\nDescription: We process shipments for global companies. Earn up to ₹55,000/month. All selected candidates must complete a refundable security clearance.\nContact: Telegram @ApexManager"
+        },
+        {
+            "id": 7,
+            "label": "scam",
+            "text": "Job Title: Finance Assistant — Remote\nCompany: Altera Finance Group\nDescription: Coordinate simple APAC tasks. Apply via: https://alterafinance-careers.com/apply. Once approved, our HR mentor will contact you on Telegram for mandatory orientation. Minor administrative charges may apply."
+        },
+        {
+            "id": 8,
+            "label": "scam",
+            "text": "Job Title: E-commerce Order Checker\nCompany: ShopX Global\nDescription: For dashboard activation, complete your refundable ID verification through our partner portal.\nApply: https://shopx-verify-user.net"
+        },
+        {
+            "id": 9,
+            "label": "scam",
+            "text": "Job Title: Social Media Associate — No Experience\nCompany: InstaMark Solutions\nSalary: ₹80,000/month\nDescription: Like, follow, comment. Payment is guaranteed. Activation fee: ₹1,250."
+        },
+        {
+            "id": 10,
+            "label": "scam",
+            "text": "Job Title: Remote Chat Operator\nCompany: SkyLink Services\nDescription: Training must be completed via external partner. Contact: WhatsApp +91 81234 12345.\nApply: https://skylink-trainingpanel.org"
+        },
+        {
+            "id": 11,
+            "label": "scam",
+            "text": "Job Title: Billing Support — Part Time\nCompany: Finsys Global\nDescription: Hours: 1–2 per day. Salary: ₹30,000–₹40,000/month. Orientation charges applicable.\nApply: https://finsys-onboard.org"
+        },
+        {
+            "id": 12,
+            "label": "scam",
+            "text": "Job Title: Warehouse Remote Assistant\nCompany: CargoLink\nDescription: Provide shipment verification support. Contact our hiring manager on Telegram @CargoHR. Verification fee applies."
+        },
+        {
+            "id": 13,
+            "label": "scam",
+            "text": "Job Title: Messaging Quality Analyst\nCompany: ChatFlow Analytics\nDescription: Easy chat-review tasks. Small onboarding charge required for account activation. Apply: https://chatflow-global-careers.org"
+        },
+        {
+            "id": 14,
+            "label": "scam",
+            "text": "Job Title: Recruitment Assistant — Remote\nCompany: TalentPro Global\nDescription: After your resume submission, HR will message you via WhatsApp for verification. A refundable deposit is required before joining."
+        },
+        {
+            "id": 15,
+            "label": "scam",
+            "text": "Job Title: Online Typist\nCompany: TypePlus\nDescription: Earn ₹40,000/month with simple typing tasks. Mandatory ID verification fee must be paid."
+        },
+        {
+            "id": 16,
+            "label": "scam",
+            "text": "Job Title: Business Operations Helper\nCompany: Zenith Hub\nApply: https://zenithhub-workpanel.com. After submission, orientation is done via Telegram. Orientation fees depend on region."
+        },
+        {
+            "id": 17,
+            "label": "scam",
+            "text": "Job Title: Remote Invoice Checker\nCompany: Merix Solutions\nDescription: Daily payouts available. Training is handled by partner team on WhatsApp. Activation charges apply."
+        },
+        {
+            "id": 18,
+            "label": "scam",
+            "text": "Job Title: Crypto Task Reviewer\nCompany: CoinBasePro India (Fake)\nSalary: ₹1,50,000/month\nDescription: Complete simple tasks and earn big. Deposit ₹2,999 for bot activation."
+        },
+        {
+            "id": 19,
+            "label": "scam",
+            "text": "Job Title: Remote Hotel Booking Validator\nCompany: TravelCare Group\nDescription: Validate booking records. Telegram orientation required. Refundable fee applies."
+        },
+        {
+            "id": 20,
+            "label": "scam",
+            "text": "Job Title: Payment Verification Assistant\nCompany: InterPay\nApply: https://interpay-dashboard.net. All users must complete identity verification charges before starting."
+        },
+        {
+            "id": 21,
+            "label": "legit",
+            "text": "Job Title: Customer Support Associate\nCompany: Swiggy\nDescription: Handle customer queries via chat and phone. 6-day work week. Salary: ₹22,000–₹26,000/month. No fees, direct company hiring.\nApply: careers.swiggy.com"
+        },
+        {
+            "id": 22,
+            "label": "legit",
+            "text": "Job Title: Frontend Developer (React)\nCompany: Infosys\nDescription: Build UI components, maintain dashboards, collaborate with designers. Salary: ₹6–8 LPA. Apply through official careers page.\nApply: https://careers.infosys.com"
+        },
+        {
+            "id": 23,
+            "label": "legit",
+            "text": "Job Title: Software Engineer Intern\nCompany: Microsoft India\nDescription: Assist in building cloud-based tools. Stipend: ₹60,000/month. No external communications. Apply only via Microsoft Careers."
+        },
+        {
+            "id": 24,
+            "label": "legit",
+            "text": "Job Title: Data Analyst\nCompany: Deloitte\nDescription: Analyze datasets, create dashboards, work with senior consultants. Salary ₹5–7 LPA.\nApply: https://jobs2.deloitte.com"
+        },
+        {
+            "id": 25,
+            "label": "legit",
+            "text": "Job Title: HR Coordinator\nCompany: Tata Steel\nDescription: Assist in candidate onboarding and compliance checks. No deposits or external agents involved.\nApply: https://careers.tatasteel.com"
+        },
+        {
+            "id": 26,
+            "label": "legit",
+            "text": "Job Title: Marketing Associate\nCompany: Zomato\nDescription: Support offline campaigns, coordinate with vendors, track performance metrics. Salary ₹25–35k/month.\nApply: zomato.com/careers"
+        },
+        {
+            "id": 27,
+            "label": "legit",
+            "text": "Job Title: QA Tester\nCompany: Razorpay\nDescription: Perform software testing, detect bugs, document issues. Full-time role.\nApply: razorpay.com/careers"
+        },
+        {
+            "id": 28,
+            "label": "legit",
+            "text": "Job Title: Project Coordinator\nCompany: Accenture\nDescription: Support project managers, track deliverables, maintain project documentation. Standard salary ranges apply."
+        },
+        {
+            "id": 29,
+            "label": "legit",
+            "text": "Job Title: UI/UX Designer\nCompany: Paytm\nDescription: Build user-friendly layouts, conduct user studies, work with PMs. Apply at official site."
+        },
+        {
+            "id": 30,
+            "label": "legit",
+            "text": "Job Title: Backend Engineer\nCompany: PhonePe\nDescription: Build microservices using Java/Kotlin. Competitive salary. Apply through company portal."
+        },
+        {
+            "id": 31,
+            "label": "legit",
+            "text": "Job Title: Operations Associate\nCompany: Amazon India\nDescription: Support fulfilment teams, track shipments, coordinate with supply chain partners."
+        },
+        {
+            "id": 32,
+            "label": "legit",
+            "text": "Job Title: Content Writer\nCompany: Unacademy\nDescription: Write educational blog content. 5-day work week."
+        },
+        {
+            "id": 33,
+            "label": "legit",
+            "text": "Job Title: Graphic Designer\nCompany: Byju's\nDescription: Create ad creatives, social media designs. Apply through official website."
+        },
+        {
+            "id": 34,
+            "label": "legit",
+            "text": "Job Title: Cloud Engineer\nCompany: Wipro\nDescription: Manage cloud infrastructure, automation pipelines. Salary: ₹6–10 LPA."
+        },
+        {
+            "id": 35,
+            "label": "legit",
+            "text": "Job Title: Data Engineer\nCompany: Oracle India\nDescription: Build ETL pipelines, work with SQL and Big Data tools."
+        },
+        {
+            "id": 36,
+            "label": "legit",
+            "text": "Job Title: Sales Executive\nCompany: Reliance Retail\nDescription: Store-level customer engagement. Standard retail salary."
+        },
+        {
+            "id": 37,
+            "label": "legit",
+            "text": "Job Title: IT Support Technician\nCompany: HCL\nDescription: Troubleshoot hardware/software issues. No external links or fees."
+        },
+        {
+            "id": 38,
+            "label": "legit",
+            "text": "Job Title: Business Analyst\nCompany: EY India\nDescription: Write BRDs, run analysis sessions, collaborate with stakeholders."
+        },
+        {
+            "id": 39,
+            "label": "legit",
+            "text": "Job Title: Product Manager\nCompany: Ola\nDescription: Own product roadmap, work with engineering, define KPIs."
+        },
+        {
+            "id": 40,
+            "label": "legit",
+            "text": "Job Title: Mobile App Developer\nCompany: Flipkart\nDescription: Build Android applications with Kotlin. Apply through official tech career portal."
+        }
+    ]
+}

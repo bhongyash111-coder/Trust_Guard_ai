@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-dotenv
+tldextract
+pymongo
+python-multipart
+firecrawl-py
+beautifulsoup4
+validators
